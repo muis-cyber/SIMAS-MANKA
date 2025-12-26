@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SIMAS Man Karo - Sistem Absensi Siswa",
+  "description": "Aplikasi manajemen absensi siswa berbasis web untuk guru. Fitur lengkap: Import Excel, Absensi Harian, Rekap Bulanan, dan Export Data.",
+  "requestFramePermissions": []
+}
